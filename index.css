@@ -1,0 +1,18 @@
+.para
+{
+    text-align: center;
+    font-family: Work Sans,Arial,sans-serif;
+    color: #00b39b;
+    font-size: 2.125rem;
+   
+}
+
+.div2
+{
+  
+  display: flex; 
+  justify-content: center;
+  background-color: #d6f5f1;
+
+
+}
